@@ -11,3 +11,9 @@ Scientific studies on intelligent fault diagnosis don't have a universial benchm
 ### Types of problems
 - Fault diagnosis
 - Anomaly detection
+
+
+
+### Used datasets
+- Aalto gear fault dataset (AGFD)
+- Aalto shim dataset (ASD)
