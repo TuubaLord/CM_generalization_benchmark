@@ -17,3 +17,5 @@ Scientific studies on intelligent fault diagnosis don't have a universial benchm
 ### Used datasets
 - Aalto gear fault dataset (AGFD)
 - Aalto shim dataset (ASD)
+- Case-Western Reserve University (CWRU) Bearing fault dataset
+- NLN-EMP pump dataset
